@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi I am Olivier</h1>
+<h1 align="center">👋 Hi, I am Olivier</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="Animated GIF" width="480" height="259" style="display: inline-block; vertical-align: middle;">
