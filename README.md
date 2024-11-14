@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I am Olivier</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="Animated GIF" width="480" height="259" style="display: inline-block; vertical-align: middle;">
+<!--   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="Animated GIF" width="480" height="259" style="display: inline-block; vertical-align: middle;"> -->
   <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Software+Engineer;Tech+Enthusiast;Full-Stack+Developer">
 </div>
 
